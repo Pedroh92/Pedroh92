@@ -33,4 +33,4 @@
 <br>
 **- Curso em "Projetos de Sistemas de TI" pela Fundação Bradesco 👨🏾‍💻**
 <br>
-**- 8 anos de experiencia em atendimento ao cliente e vendas( Presencial e Online) 🗣️ 👨🏾‍💻**
+**- 8 anos de experiencia em Jornada do Cliente, Customer Experience e Vendas( Presencial e Online) 🗣️ 👨🏾‍💻**
