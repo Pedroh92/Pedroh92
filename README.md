@@ -20,12 +20,18 @@
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=whitee"/>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="MICROSSOFT OFFICE" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+<img align="center" alt="DJANGO" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+<img align="center" alt="NODEJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+
+
 
 </div>
 
 # Apaixonado por tecnologia desde pequeno! Eterno aprendiz 🧑🏾‍🏫 👨🏾‍💻
 
-**- Finalizando o curso de Desenvolvedor FullStack**
+**- Desenvolvedor FullStack Jr**
 <br>
 **- Futuro Engenheiro de Software 👨🏾‍💻**
 <br>
